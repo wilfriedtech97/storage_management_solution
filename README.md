@@ -4,7 +4,6 @@ APP DEMO HERE " https://storage-management-solution-orpin.vercel.app/ "
 🤖 Introduction
 A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 34k+ members. It's a place where people help each other out.
 
 ⚙️ Tech Stack
 React 19
@@ -13,6 +12,8 @@ Appwrite
 TailwindCSS
 ShadCN
 TypeScript
+
+
 🔋 Features
 👉 User Authentication with Appwrite: Implement signup, login, and logout functionality using Appwrite's authentication system.
 
@@ -34,10 +35,11 @@ TypeScript
 
 and many more, including the latest React 19, Next.js 15 and Appwrite features alongside code architecture and reusability
 
+
 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+   Prerequisites
 
 Make sure you have the following installed on your machine:
 
@@ -76,6 +78,7 @@ npm run dev
 Open http://localhost:3000 in your browser to view the project.
 
 🕸️ Snippets
+
 tailwind.config.ts
 globals.css
 constants/index.ts
