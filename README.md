@@ -43,7 +43,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
+git clone https://github.com/wilfriedtech97/storage_management_solution.git
 cd storage_management_solution
 Installation
 
